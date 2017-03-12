@@ -1,0 +1,36 @@
+C:\Users\hthhe_000\Documents\Visual Studio 2013\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\bin\Debug\Tro Choi Lat Hinh.exe.config
+C:\Users\hthhe_000\Documents\Visual Studio 2013\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh.exe
+C:\Users\hthhe_000\Documents\Visual Studio 2013\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh.pdb
+C:\Users\hthhe_000\Documents\Visual Studio 2013\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\bin\Debug\Tro Choi Lat Hinh.exe
+C:\Users\hthhe_000\Documents\Visual Studio 2013\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\bin\Debug\Tro Choi Lat Hinh.pdb
+C:\Users\hthhe_000\Documents\Visual Studio 2013\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh (PictureBox).csprojResolveAssemblyReference.cache
+C:\Users\hthhe_000\Documents\Visual Studio 2013\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro_Choi_Lat_Hinh.Form1.resources
+C:\Users\hthhe_000\Documents\Visual Studio 2013\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro_Choi_Lat_Hinh.Properties.Resources.resources
+C:\Users\hthhe_000\Documents\Visual Studio 2013\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh (PictureBox).csproj.GenerateResource.Cache
+C:\Users\hthhe_000\Dropbox\Student\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\bin\Debug\Tro Choi Lat Hinh.exe.config
+C:\Users\hthhe_000\Dropbox\Student\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh.exe
+C:\Users\hthhe_000\Dropbox\Student\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh.pdb
+C:\Users\hthhe_000\Dropbox\Student\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\bin\Debug\Tro Choi Lat Hinh.exe
+C:\Users\hthhe_000\Dropbox\Student\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\bin\Debug\Tro Choi Lat Hinh.pdb
+C:\Users\hthhe_000\Dropbox\Student\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh (PictureBox).csprojResolveAssemblyReference.cache
+C:\Users\hthhe_000\Dropbox\Student\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro_Choi_Lat_Hinh.Form1.resources
+C:\Users\hthhe_000\Dropbox\Student\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro_Choi_Lat_Hinh.Properties.Resources.resources
+C:\Users\hthhe_000\Dropbox\Student\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh (PictureBox).csproj.GenerateResource.Cache
+E:\Dropbox\Student\Z - First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\bin\Debug\Tro Choi Lat Hinh.exe.config
+E:\Dropbox\Student\Z - First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh.exe
+E:\Dropbox\Student\Z - First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh.pdb
+E:\Dropbox\Student\Z - First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\bin\Debug\Tro Choi Lat Hinh.exe
+E:\Dropbox\Student\Z - First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\bin\Debug\Tro Choi Lat Hinh.pdb
+E:\Dropbox\Student\Z - First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh (PictureBox).csprojResolveAssemblyReference.cache
+E:\Dropbox\Student\Z - First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro_Choi_Lat_Hinh.Form1.resources
+E:\Dropbox\Student\Z - First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro_Choi_Lat_Hinh.Properties.Resources.resources
+E:\Dropbox\Student\Z - First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh (PictureBox).csproj.GenerateResource.Cache
+D:\Dropbox\Student (Finish)\First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\bin\Debug\Tro Choi Lat Hinh.exe.config
+D:\Dropbox\Student (Finish)\First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh.exe
+D:\Dropbox\Student (Finish)\First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh.pdb
+D:\Dropbox\Student (Finish)\First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\bin\Debug\Tro Choi Lat Hinh.exe
+D:\Dropbox\Student (Finish)\First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\bin\Debug\Tro Choi Lat Hinh.pdb
+D:\Dropbox\Student (Finish)\First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh (PictureBox).csprojResolveAssemblyReference.cache
+D:\Dropbox\Student (Finish)\First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro_Choi_Lat_Hinh.Form1.resources
+D:\Dropbox\Student (Finish)\First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro_Choi_Lat_Hinh.Properties.Resources.resources
+D:\Dropbox\Student (Finish)\First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh (PictureBox).csproj.GenerateResource.Cache

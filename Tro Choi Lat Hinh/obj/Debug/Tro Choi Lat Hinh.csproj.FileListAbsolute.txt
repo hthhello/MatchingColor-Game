@@ -1,0 +1,9 @@
+c:\users\hthhe_000\documents\visual studio 2013\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\bin\Debug\Tro Choi Lat Hinh.exe.config
+C:\Users\hthhe_000\documents\visual studio 2013\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\bin\Debug\Tro Choi Lat Hinh.exe
+C:\Users\hthhe_000\documents\visual studio 2013\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\bin\Debug\Tro Choi Lat Hinh.pdb
+C:\Users\hthhe_000\documents\visual studio 2013\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh.csprojResolveAssemblyReference.cache
+C:\Users\hthhe_000\documents\visual studio 2013\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro_Choi_Lat_Hinh.Form1.resources
+C:\Users\hthhe_000\documents\visual studio 2013\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro_Choi_Lat_Hinh.Properties.Resources.resources
+C:\Users\hthhe_000\documents\visual studio 2013\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh.csproj.GenerateResource.Cache
+C:\Users\hthhe_000\documents\visual studio 2013\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh.exe
+C:\Users\hthhe_000\documents\visual studio 2013\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh.pdb
