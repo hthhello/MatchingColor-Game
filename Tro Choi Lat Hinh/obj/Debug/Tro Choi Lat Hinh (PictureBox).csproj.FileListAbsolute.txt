@@ -34,3 +34,6 @@ D:\Dropbox\Student (Finish)\First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat H
 D:\Dropbox\Student (Finish)\First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro_Choi_Lat_Hinh.Form1.resources
 D:\Dropbox\Student (Finish)\First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro_Choi_Lat_Hinh.Properties.Resources.resources
 D:\Dropbox\Student (Finish)\First Year\Projects\Tro Choi Lat Hinh\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh (PictureBox).csproj.GenerateResource.Cache
+D:\GitHub\MatchingColor-Game\Tro Choi Lat Hinh\bin\Debug\Tro Choi Lat Hinh.exe.config
+D:\GitHub\MatchingColor-Game\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh.exe
+D:\GitHub\MatchingColor-Game\Tro Choi Lat Hinh\obj\Debug\Tro Choi Lat Hinh.pdb
